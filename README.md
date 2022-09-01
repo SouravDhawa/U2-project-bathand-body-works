@@ -17,11 +17,11 @@ our project link:-https://magnificent-torte-3f95a1.netlify.app/
 github link:-//github.com/SouravDhawa/U2-project-bathand-body-works
 
 Our Team Members:-
-Pushpraj Patel
-Sourav Dhawa
-Pritu Yadav
-Shankar kumar
-priyobrato banik
+Pushpraj Patel,
+Sourav Dhawa,
+Pritu Yadav,
+Shankar kumar,
+priyobrato banik,
 Rishi Ranjan Kumar
 Learnings -
 We learnt Time menegment all became proficient in reading understanding the code of team members.
